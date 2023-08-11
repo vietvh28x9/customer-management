@@ -1,0 +1,12 @@
+Phần mềm quản lý khách hàng:
+Đây là một phần mềm Java đơn giản với menu bằng console cho phép người dùng lựa chọn các chức năng sau:
+- Nhập Khách hàng
+- Sửa thông tin khách hàng
+- Xuất danh sách Khách hàng
+- Tìm kiếm khách hàng theo sđt
+- Sắp xếp khách hàng theo sđt
+- Lưu danh sách Khách hàng
+- Đọc danh sách khách hàng từ file
+- Thống kê khách hàng theo nhà mạng
+- Xóa khách hàng
+- Thoát chương trình
